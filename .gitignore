@@ -3,6 +3,8 @@
 .idea/*
 *.map
 
+.DS_Store
+
 # Logs
 logs
 *.log

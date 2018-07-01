@@ -59,7 +59,7 @@ var init = function (forceInit) {
                 }));
             promises.push(import(
                 /* webpackChunkName: "jsondata" */
-                '../data/runeSpecialDesc.json').then(jsondata => {
+                '../data/runeSpecialDesc_ja.json').then(jsondata => {
                     return savedata('runeSpecialDesc', jsondata);
                 }));
             return Promise.all(promises).then(() => {
