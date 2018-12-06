@@ -37,7 +37,8 @@ data["typeBranch-22"] = { "ja-JP": "セージ", "zh-TW": "賢者", "en-US": "Sag
 data["typeBranch-31"] = { "ja-JP": "アサシン", "zh-TW": "刺客", "en-US": "Assassin", "zh-CN": "刺客" };
 data["typeBranch-32"] = { "ja-JP": "ローグ", "zh-TW": "流氓", "en-US": "Rogue", "zh-CN": "流氓" };
 data["typeBranch-41"] = { "ja-JP": "ハンター", "zh-TW": "獵人", "en-US": "Hunter", "zh-CN": "猎人" };
-data["typeBranch-42"] = { "ja-JP": "バード／ダンサー", "zh-TW": "吟遊詩人/舞孃", "en-US": "Bard/Dancer", "zh-CN": "诗人/舞娘" };
+data["typeBranch-42"] = { "ja-JP": "バード", "zh-TW": "吟遊詩人", "en-US": "Bard", "zh-CN": "诗人" };
+data["typeBranch-43"] = { "ja-JP": "ダンサー", "zh-TW": "舞孃", "en-US": "Dancer", "zh-CN": "舞娘" };
 data["typeBranch-51"] = { "ja-JP": "プリースト", "zh-TW": "祭司", "en-US": "Priest", "zh-CN": "牧师" };
 data["typeBranch-52"] = { "ja-JP": "モンク", "zh-TW": "武道家", "en-US": "Monk", "zh-CN": "武僧" };
 data["typeBranch-61"] = { "ja-JP": "ブラックスミス", "zh-TW": "鐵匠", "en-US": "Blacksmith", "zh-CN": "铁匠" };
@@ -47,6 +48,7 @@ data["search"] = { "ja-JP": "検索", "zh-TW": "搜尋", "en-US": "Search", "zh-
 data["clear"] = { "ja-JP": "クリア", "zh-TW": "清空", "en-US": "Clear", "zh-CN": "清空" };
 
 data["currentversion"] = { "ja-JP": "Ver: ", "zh-TW": "當前版本：", "en-US": "Current Ver.:", "zh-CN": "当前版本：" };
+data["externallink"] = { "ja-JP": "外部リンク", "zh-TW": "外部鏈接", "en-US": "External Links", "zh-CN": "外部链接" };
 data["officalsite"] = { "ja-JP": "公式サイト", "zh-TW": "官網", "en-US": "Offical Site", "zh-CN": "官网" };
 data["donate"] = { "ja-JP": "ro.tnker.com", "zh-TW": "", "en-US": "", "zh-CN": "" };
 data["fork"] = { "ja-JP": "RuneBFS ❤︎ forked", "zh-TW": "", "en-US": "", "zh-CN": "" };
